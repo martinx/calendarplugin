@@ -1,0 +1,14 @@
+#Calendar plugin
+
+= Introduction =
+
+Calendar plugin 是一个rails plugin，rails默认的太丑了，也不是太好看，于是乎把webwork中的calendar代码该了一下，放到rails里面来用。
+
+
+= Install =
+
+zhi:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
