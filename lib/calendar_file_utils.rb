@@ -1,3 +1,4 @@
+#copy from fckeditor plugin
 module CalendarFileUtils
     def CalendarFileUtils.recursive_copy(options)
         source = options[:source]
